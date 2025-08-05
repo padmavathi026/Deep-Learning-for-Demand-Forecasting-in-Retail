@@ -23,8 +23,7 @@ This project investigates and benchmarks various deep learning models for multi-
 6. Model Comparison via MSE, MAE, R², RMSE
 
 ## 📈 Results
-- **Best Model (Clean & Noisy)**: **Transformer**
-- **Runner-up**: **CNN-RNN Hybrid**
+- **Best Model (Clean & Noisy)**: **GRU**
 - Metrics show Transformer maintains top performance even under noisy input.
 
 ## Author
